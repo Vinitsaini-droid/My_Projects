@@ -1,0 +1,5 @@
+path: /kaggle/working/LunarVisionData
+train: train
+val: valid
+nc: 2
+names: ['crater', 'boulder']
