@@ -8,4 +8,5 @@ Till now we have -
 * Lunar Vision model (A Fine Tuned CNN using YOLOv8s to detect craters and boulders)
 * Titanic Survival Prediction(classic Kaggle model with f1 of 1)
 * MNIST Digit Classifier(99%+ accuracy)
-*  Spam Email Classifier (Optuna-tuned, F1: 0.91+)
+* MNIST Digit Classifier via CNN(99%+ accuracy)
+* Spam Email Classifier (Optuna-tuned, F1: 0.91+)
