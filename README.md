@@ -10,17 +10,20 @@ Till now we have -
 * MNIST Digit Classifier(99%+ accuracy)
 * MNIST Digit Classifier via CNN(99%+ accuracy)
 * Spam Email Classifier (Optuna-tuned, F1: 0.91+)
+* Cat\_vs\_Dog\_Classifier (Accuracy: 98.90%)
 * RNN vs GRU Sentiment Classification (IMDB)
 
-&nbsp;     1. \*\*SimpleRNN\*\*:
+      1. \*\*SimpleRNN\*\*:
 
-&nbsp;         - 64 units
+          - 64 units
 
-&nbsp;         - Test Accuracy: 49.83%
+          - Test Accuracy: 49.83%
 
-&nbsp;     2. \*\*GRU\*\*:
+      2. \*\*GRU\*\*:
 
-&nbsp;         - 64 units
+          - 64 units
 
-&nbsp;         - Test Accuracy: 82.89%
+          - Test Accuracy: 82.89%
+
+&nbsp;
 
