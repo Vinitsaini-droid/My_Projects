@@ -9,11 +9,12 @@ Till now we have -
 * Titanic Survival Prediction(classic Kaggle model with f1 of 1)
 * MNIST Digit Classifier(99%+ accuracy)
 * MNIST Digit Classifier via CNN(99%+ accuracy)
-* Spam Email Classifier (Optuna-tuned, F1: 0.91+)
-* Cat\_vs\_Dog\_Classifier (Accuracy: 98.90%)
+* Spam Email Classifier (Optuna -tuned, F1: 0.91+)
+* Cat vs Dog Classifier (Accuracy: 98.90%)
+* LSTM stock price predictor
 * RNN vs GRU Sentiment Classification (IMDB)
 
-      1. \*\*SimpleRNN\*\*:
+      1. \*\*Simple RNN\*\*:
 
           - 64 units
 
@@ -25,5 +26,5 @@ Till now we have -
 
           - Test Accuracy: 82.89%
 
-&nbsp;
+ 
 
