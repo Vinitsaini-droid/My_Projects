@@ -12,19 +12,8 @@ Till now we have -
 * Spam Email Classifier (Optuna -tuned, F1: 0.91+)
 * Cat vs Dog Classifier (Accuracy: 98.90%)
 * LSTM stock price predictor
+* GAN MNIST Generator
 * RNN vs GRU Sentiment Classification (IMDB)
 
-      1. \*\*Simple RNN\*\*:
-
-          - 64 units
-
-          - Test Accuracy: 49.83%
-
-      2. \*\*GRU\*\*:
-
-          - 64 units
-
-          - Test Accuracy: 82.89%
-
- 
+       
 
