@@ -13,6 +13,7 @@ Till now we have -
 * Cat vs Dog Classifier (Accuracy: 98.90%)
 * LSTM stock price predictor
 * GAN MNIST Generator
+* Style Transfer NN
 * RNN vs GRU Sentiment Classification (IMDB)
 
        
