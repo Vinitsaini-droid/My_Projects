@@ -15,6 +15,7 @@ Till now we have -
 * GAN MNIST Generator
 * Style Transfer NN
 * RNN vs GRU Sentiment Classification (IMDB)
+* Mini Char\_lm (implemented from scrach)
 
        
 
